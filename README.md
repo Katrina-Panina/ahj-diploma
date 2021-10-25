@@ -1,4 +1,4 @@
-Ссылка на GitHub Pages](https://katrina-panina.github.io/ahj-diploma/)<br>
+[Ссылка на GitHub Pages](https://katrina-panina.github.io/ahj-diploma)<br>
 [Репозиторий Backend](https://github.com/Katrina-Panina/ahj-diplomabackend.git)
 
 ---
@@ -32,3 +32,5 @@
 * сброс серверной части и базы данных спустя 30-60 минут
 * время запуска после простоя и поступление первого ответа спустя 10-30 секунд после обращения
 * закрытие канала WebSockets спустя 50-60 секунд бездействия
+
+P.S. Цой жив!
